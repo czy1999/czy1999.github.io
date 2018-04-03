@@ -79,13 +79,17 @@
 
 
 
-<meta property="og:type" content="website">
+<meta name="description" content="Git 一些问题克隆版本库 clone A Blink1234567891011121314151617**对比git rm和rm的使用区别*** 用 git rm 来删除文件，同时还会将这个删除操作记录下来；* 用 rm 来删除文件，仅仅是删除了物理文件，没有将其从 git 的记录中剔除。**Permission denied (publickey)**&amp;gt; （1） 检查SSH key是否已">
+<meta property="og:type" content="article">
 <meta property="og:title" content="Greatcat">
-<meta property="og:url" content="http://yoursite.com/index.html">
+<meta property="og:url" content="http://yoursite.com/2018/04/03/Git 一些问题/index.html">
 <meta property="og:site_name" content="Greatcat">
+<meta property="og:description" content="Git 一些问题克隆版本库 clone A Blink1234567891011121314151617**对比git rm和rm的使用区别*** 用 git rm 来删除文件，同时还会将这个删除操作记录下来；* 用 rm 来删除文件，仅仅是删除了物理文件，没有将其从 git 的记录中剔除。**Permission denied (publickey)**&amp;gt; （1） 检查SSH key是否已">
 <meta property="og:locale" content="default">
+<meta property="og:updated_time" content="2018-03-29T13:10:11.584Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Greatcat">
+<meta name="twitter:description" content="Git 一些问题克隆版本库 clone A Blink1234567891011121314151617**对比git rm和rm的使用区别*** 用 git rm 来删除文件，同时还会将这个删除操作记录下来；* 用 rm 来删除文件，仅仅是删除了物理文件，没有将其从 git 的记录中剔除。**Permission denied (publickey)**&amp;gt; （1） 检查SSH key是否已">
 
 
 
@@ -115,13 +119,13 @@
 
 
 
-  <link rel="canonical" href="http://yoursite.com/"/>
+  <link rel="canonical" href="http://yoursite.com/2018/04/03/Git 一些问题/"/>
 
 
 
 
 
-  <title>Greatcat</title>
+  <title> | Greatcat</title>
   
 
 
@@ -140,8 +144,7 @@
     
   
 
-  <div class="container sidebar-position-left 
-  page-home">
+  <div class="container sidebar-position-left page-post-detail">
     <div class="headband"></div>
 
     <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
@@ -214,9 +217,9 @@
         <div class="content-wrap">
           <div id="content" class="content">
             
-  <section id="posts" class="posts-expand">
+
+  <div id="posts" class="posts-expand">
     
-      
 
   
 
@@ -246,9 +249,7 @@
 
         
         
-          <h1 class="post-title" itemprop="name headline">
-                
-                <a class="post-title-link" href="/2018/04/03/Git 一些问题/" itemprop="url">Untitled</a></h1>
+          <h1 class="post-title" itemprop="name headline"></h1>
         
 
         <div class="post-meta">
@@ -298,9 +299,7 @@
       
 
       
-        
-          
-            <h1 id="Git-一些问题"><a href="#Git-一些问题" class="headerlink" title="Git 一些问题"></a>Git 一些问题</h1><p><strong>克隆版本库</strong></p>
+        <h1 id="Git-一些问题"><a href="#Git-一些问题" class="headerlink" title="Git 一些问题"></a>Git 一些问题</h1><p><strong>克隆版本库</strong></p>
 <figure class="highlight plain"><figcaption><span>clone A B</span><a href="//若路径中有空格则需要用" "括起来，否则会报错```"="">link</a></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">**对比git rm和rm的使用区别**</span><br><span class="line"></span><br><span class="line">* 用 git rm 来删除文件，同时还会将这个删除操作记录下来；</span><br><span class="line">* 用 rm 来删除文件，仅仅是删除了物理文件，没有将其从 git 的记录中剔除。</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">**Permission denied (publickey)**</span><br><span class="line"></span><br><span class="line">&gt; （1） 检查SSH key是否已经存在``` ls ~/.ssh/</span><br></pre></td></tr></table></figure>
 <blockquote>
 <p>（2）如果第1步中的SSH key不存在，生成一个新的SSH key<figure class="highlight plain"><figcaption><span>-t rsa ```</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br></pre></td><td class="code"><pre><span class="line">&gt;</span><br><span class="line">&gt; （3）将SSH key添加到github.</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">**通过 gitbash 连接 github**</span><br><span class="line"></span><br><span class="line">将 key 粘贴到 github 设置里的 SSH keys 报出如下错误：</span><br><span class="line"></span><br><span class="line">Key is invalid. It must begin with &apos;ssh-ed25519&apos;, &apos;ssh-rsa&apos;, &apos;ssh-dss&apos;, &apos;ecdsa-sha2-nistp256&apos;, &apos;ecdsa-sha2-nistp384&apos;, or &apos;ecdsa-sha2-nistp521&apos;. Check that you&apos;re copying the public half of the key</span><br><span class="line"></span><br><span class="line">&gt; 解决：ssh key 格式问题。在执行 ssh-keygen 命令后会提示输入保存 key 的文件，注意打开的是对应的 .pub 格式的文件，用 sublime 等软件打开，注意保持其原来的格式，然后直接贴到 github上即可。（.pub 里的格式为：&quot;ssh-rsa 空格 key值 空格 邮箱&quot;)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">**git stash储藏未完成的工作**</span><br><span class="line"></span><br><span class="line">如果你的文件没add，即没有“被跟踪”和“暂存”，stash是不会帮你保存的。</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">**git pull与git fetch**</span><br></pre></td></tr></table></figure></p>
@@ -312,8 +311,6 @@
 <p>建立本地分支和远程分支的关联，使用<code>git branch --set-upstream branch-name origin/branch-name</code>；</p>
 </blockquote>
 
-          
-        
       
     </div>
     
@@ -330,151 +327,28 @@
       
 
       
-
-      
-
       
       
-        <div class="post-eof"></div>
+
       
-    </footer>
-  </div>
-  
-  
-  
-  </article>
-
-
-    
-      
-
-  
-
-  
-  
-  
-
-  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
-  
-  
-  
-  <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2018/04/03/Hexo 搭建/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="name" content="CZY">
-      <meta itemprop="description" content="">
-      <meta itemprop="image" content="/images/avatar.gif">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="Greatcat">
-    </span>
-
-    
-      <header class="post-header">
-
-        
-        
-          <h1 class="post-title" itemprop="name headline">
-                
-                <a class="post-title-link" href="/2018/04/03/Hexo 搭建/" itemprop="url">Untitled</a></h1>
-        
-
-        <div class="post-meta">
-          <span class="post-time">
+        <div class="post-nav">
+          <div class="post-nav-next post-nav-item">
             
-              <span class="post-meta-item-icon">
-                <i class="fa fa-calendar-o"></i>
-              </span>
-              
-                <span class="post-meta-item-text">Posted on</span>
-              
-              <time title="Post created" itemprop="dateCreated datePublished" datetime="2018-04-03T20:26:06+08:00">
-                2018-04-03
-              </time>
+              <a href="/2018/04/03/Hexo 搭建/" rel="next" title="">
+                <i class="fa fa-chevron-left"></i> 
+              </a>
             
+          </div>
 
+          <span class="post-nav-divider"></span>
+
+          <div class="post-nav-prev post-nav-item">
             
-
-            
-          </span>
-
-          
-
-          
-            
-          
-
-          
-          
-
-          
-
-          
-
-          
-
+          </div>
         </div>
-      </header>
-    
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-
-      
       
 
       
-        
-          
-            <h1 id="Hexo-搭建"><a href="#Hexo-搭建" class="headerlink" title="Hexo 搭建"></a>Hexo 搭建</h1><p><strong>环境准备</strong></p>
-<ul>
-<li>安装Git</li>
-<li>安装Node.js</li>
-<li>安装Hexo</li>
-</ul>
-<p><strong>初始化Blog</strong></p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo init blog</span><br></pre></td></tr></table></figure>
-<p>测试运行</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">hexo new test_my_site</span><br><span class="line"></span><br><span class="line">hexo g</span><br><span class="line"></span><br><span class="line">hexo s</span><br></pre></td></tr></table></figure>
-<p><strong>常用hexo命令</strong></p>
-<p>npm install hexo -g     #安装Hexo</p>
-<p>npm update hexo -g    #升级<br>hexo init    #初始化博客</p>
-<p>命令简写<br>hexo n  “我的博客” == hexo new  “我的博客”   #新建文章<br>hexo g == hexo generate   #生成<br>hexo s == hexo server   #启动服务预览<br>hexo d == hexo deploy   #部署</p>
-<p>hexo server     #Hexo会监视文件变动并自动更新，无须重启服务器<br>hexo server -s    #静态模式<br>hexo server -p 5000     #更改端口<br>hexo server -i 192.168.1.1     #自定义 IP<br>hexo clean     #清除缓存</p>
-<p><strong>推送网站</strong></p>
-<p>打开站点的配置文件_config.yml</p>
-<p>deploy:<br>type: git<br>repo: GitHub仓库路径<br>branch: master</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo d</span><br></pre></td></tr></table></figure>
-
-          
-        
-      
-    </div>
-    
-    
-    
-
-    
-
-    
-
-    
-
-    <footer class="post-footer">
-      
-
-      
-
-      
-
-      
-      
-        <div class="post-eof"></div>
       
     </footer>
   </div>
@@ -484,158 +358,11 @@
   </article>
 
 
-    
-      
 
-  
-
-  
-  
-  
-
-  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
-  
-  
-  
-  <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2018/04/03/Git学习笔记（二）-协作功能/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="name" content="CZY">
-      <meta itemprop="description" content="">
-      <meta itemprop="image" content="/images/avatar.gif">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="Greatcat">
-    </span>
-
-    
-      <header class="post-header">
-
-        
-        
-          <h1 class="post-title" itemprop="name headline">
-                
-                <a class="post-title-link" href="/2018/04/03/Git学习笔记（二）-协作功能/" itemprop="url">Untitled</a></h1>
-        
-
-        <div class="post-meta">
-          <span class="post-time">
-            
-              <span class="post-meta-item-icon">
-                <i class="fa fa-calendar-o"></i>
-              </span>
-              
-                <span class="post-meta-item-text">Posted on</span>
-              
-              <time title="Post created" itemprop="dateCreated datePublished" datetime="2018-04-03T20:26:06+08:00">
-                2018-04-03
-              </time>
-            
-
-            
-
-            
-          </span>
-
-          
-
-          
-            
-          
-
-          
-          
-
-          
-
-          
-
-          
-
-        </div>
-      </header>
-    
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-
-      
-      
-
-      
-        
-          
-            <h1 id="Git学习笔记（二）-协作功能"><a href="#Git学习笔记（二）-协作功能" class="headerlink" title="Git学习笔记（二）-协作功能"></a>Git学习笔记（二）-协作功能</h1><h1 id="分支"><a href="#分支" class="headerlink" title="分支"></a>分支</h1><p><strong>创建分支</strong></p>
-<figure class="highlight plain"><figcaption><span>checkout -b dev```</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">**删除分支**</span><br><span class="line"></span><br><span class="line">```git branch -d  dev</span><br></pre></td></tr></table></figure>
-<p><strong>列出所有分支</strong></p>
-<figure class="highlight plain"><figcaption><span>branch```</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">**合并分支**</span><br><span class="line"></span><br><span class="line">```git merge</span><br></pre></td></tr></table></figure>
-<p><strong>解决合并冲突</strong></p>
-<p>修改冲突文件 -&gt; git add -&gt; git commit </p>
-<p><strong>储藏未完成的工作</strong></p>
-<figure class="highlight plain"><figcaption><span>stash```</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">```git stash list```查看现有储藏</span><br><span class="line"></span><br><span class="line">```git stash branch ```从储存区创建分支</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line"># 远程仓库</span><br><span class="line"></span><br><span class="line">**克隆版本库**</span><br><span class="line"></span><br><span class="line">```git clone A B //若路径中有空格则需要用&quot;&quot;括起来，否则会报错``` </span><br><span class="line"></span><br><span class="line">**关联远程repository**</span><br><span class="line"></span><br><span class="line">```git remote add origin git@github.com:git_username/repository_name.git</span><br></pre></td></tr></table></figure>
-<p><strong>取消本地目录下关联的远程库</strong></p>
-<figure class="highlight plain"><figcaption><span>remote remove origin```</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">**推送修改**</span><br><span class="line"></span><br><span class="line">```git push origin master</span><br></pre></td></tr></table></figure>
-<p><strong>从Github克隆一个本地库</strong></p>
-<figure class="highlight plain"><figcaption><span>clone git@github.com:xxx/gxxx.git```</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">**查看远程库信息**</span><br><span class="line"></span><br><span class="line">```git remote -v</span><br></pre></td></tr></table></figure>
-<p><strong>多人协作的工作模式</strong></p>
-<blockquote>
-<ol>
-<li>试图用<code>git push origin branch-name</code>推送自己的修改；</li>
-<li>如果推送失败，则因为远程分支比你的本地更新，需要先用<code>git pull</code>试图合并；</li>
-<li>如果合并有冲突，则解决冲突，并在本地提交；</li>
-<li>没有冲突或者解决掉冲突后，再用<code>git push origin branch-name</code>推送就能成功！</li>
-</ol>
-<p>如果<code>git pull</code>提示“no tracking information”，则说明本地分支和远程分支的链接关系没有创建，用命令<code>git branch --set-upstream branch-name origin/branch-name</code>。</p>
-</blockquote>
-<p><strong>推送标签到远程</strong></p>
-<figure class="highlight plain"><figcaption><span>push origin xxx ```</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">一次性推送全部标签</span><br><span class="line"></span><br><span class="line">```git push origin --tags</span><br></pre></td></tr></table></figure>
-<p>删除标签</p>
-<ul>
-<li>命令<code>git tag -d &lt;tagname&gt;</code>可以删除一个本地标签；</li>
-<li>命令<code>git push origin :refs/tags/&lt;tagname&gt;</code>可以删除一个远程标签。</li>
-</ul>
-
-          
-        
+    <div class="post-spread">
       
     </div>
-    
-    
-    
-
-    
-
-    
-
-    
-
-    <footer class="post-footer">
-      
-
-      
-
-      
-
-      
-      
-        <div class="post-eof"></div>
-      
-    </footer>
   </div>
-  
-  
-  
-  </article>
-
-
-    
-  </section>
-
-  
 
 
           </div>
@@ -643,6 +370,10 @@
 
 
           
+
+  
+
+
 
         </div>
         
@@ -663,8 +394,17 @@
       
 
       
+        <ul class="sidebar-nav motion-element">
+          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap">
+            Table of Contents
+          </li>
+          <li class="sidebar-nav-overview" data-target="site-overview-wrap">
+            Overview
+          </li>
+        </ul>
+      
 
-      <section class="site-overview-wrap sidebar-panel sidebar-panel-active">
+      <section class="site-overview-wrap sidebar-panel">
         <div class="site-overview">
           <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
             
@@ -706,6 +446,22 @@
         </div>
       </section>
 
+      
+      <!--noindex-->
+        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
+          <div class="post-toc">
+
+            
+              
+            
+
+            
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#Git-一些问题"><span class="nav-number">1.</span> <span class="nav-text">Git 一些问题</span></a></li></ol></div>
+            
+
+          </div>
+        </section>
+      <!--/noindex-->
       
 
       
@@ -846,6 +602,10 @@
 
 
   
+  <script type="text/javascript" src="/js/src/scrollspy.js?v=5.1.4"></script>
+<script type="text/javascript" src="/js/src/post-details.js?v=5.1.4"></script>
+
+
 
   
 
