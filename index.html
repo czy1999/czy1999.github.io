@@ -249,7 +249,7 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2018/04/06/Git学习笔记（一）-初级语法/">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2018/04/06/Git学习笔记（二）-协作功能/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="name" content="CZY">
@@ -268,7 +268,7 @@
         
           <h1 class="post-title" itemprop="name headline">
                 
-                <a class="post-title-link" href="/2018/04/06/Git学习笔记（一）-初级语法/" itemprop="url">Git学习笔记-初级语法</a></h1>
+                <a class="post-title-link" href="/2018/04/06/Git学习笔记（二）-协作功能/" itemprop="url">Git学习笔记（二）-协作功能</a></h1>
         
 
         <div class="post-meta">
@@ -320,49 +320,35 @@
       
         
           
-            <h2 id="初始准备"><a href="#初始准备" class="headerlink" title="初始准备"></a>初始准备</h2><p><strong>配置用户名与邮箱</strong></p>
-<figure class="highlight plain"><figcaption><span>config -global user.name"greatcat"```</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">```git config global user.email&quot;greatcat233@qq.com&quot;</span><br></pre></td></tr></table></figure>
-<p><strong>本地初始化一个git仓库</strong></p>
-<figure class="highlight plain"><figcaption><span>init```</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">**添加待提交文件**</span><br><span class="line"></span><br><span class="line">```git add test.txt</span><br></pre></td></tr></table></figure>
-<p><strong>提交文件</strong></p>
-<figure class="highlight plain"><figcaption><span>commit -m" balabala "```</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">**查看commit记录**</span><br><span class="line"></span><br><span class="line">```git log</span><br></pre></td></tr></table></figure>
-<p><strong>新建分支</strong></p>
-<figure class="highlight plain"><figcaption><span>branch name```</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">**切换分支**</span><br><span class="line"></span><br><span class="line">```git checkout name``` 	切换到name分支</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">**新建并切换分支**</span><br><span class="line"></span><br><span class="line">```git checkou -b name</span><br></pre></td></tr></table></figure>
-<p><strong>合并分支</strong></p>
-<figure class="highlight plain"><figcaption><span>checkout master```</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">```git merge name</span><br></pre></td></tr></table></figure>
-<p><strong>删除分支</strong></p>
-<figure class="highlight plain"><figcaption><span>branch -d name```</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">```git branch -D name (强制删除)</span><br></pre></td></tr></table></figure>
-<p><strong>标签</strong></p>
-<figure class="highlight plain"><figcaption><span>tage```</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">还可以创建带有说明的标签，用`-a`指定标签名，`-m`指定说明文字：</span><br><span class="line"></span><br><span class="line">``` git tag -a v0.1 -m &quot;version 0.1 released&quot;</span><br></pre></td></tr></table></figure>
-<p>还可以通过<code>-s</code>用私钥签名一个标签：</p>
-<figure class="highlight plain"><figcaption><span>tag -s v0.2 -m "signed version 0.2 released" ```</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">删除标签</span><br><span class="line"></span><br><span class="line">```git tag &apos;v1.0&apos;</span><br></pre></td></tr></table></figure>
-<p><strong>检查状态</strong></p>
-<figure class="highlight plain"><figcaption><span>diff 文件名```</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">**删除文件**</span><br><span class="line"></span><br><span class="line">```git rm 文件名</span><br></pre></td></tr></table></figure>
-<p><strong>撤销操作</strong></p>
+            <h1 id="分支"><a href="#分支" class="headerlink" title="分支"></a>分支</h1><p><strong>创建分支</strong></p>
+<figure class="highlight plain"><figcaption><span>checkout -b dev```</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">**删除分支**</span><br><span class="line"></span><br><span class="line">```git branch -d  dev</span><br></pre></td></tr></table></figure>
+<p><strong>列出所有分支</strong></p>
+<figure class="highlight plain"><figcaption><span>branch```</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">**合并分支**</span><br><span class="line"></span><br><span class="line">```git merge</span><br></pre></td></tr></table></figure>
+<p><strong>解决合并冲突</strong></p>
+<p>修改冲突文件 -&gt; git add -&gt; git commit </p>
+<p><strong>储藏未完成的工作</strong></p>
+<figure class="highlight plain"><figcaption><span>stash```</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">```git stash list```查看现有储藏</span><br><span class="line"></span><br><span class="line">```git stash branch ```从储存区创建分支</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line"># 远程仓库</span><br><span class="line"></span><br><span class="line">**克隆版本库**</span><br><span class="line"></span><br><span class="line">```git clone A B //若路径中有空格则需要用&quot;&quot;括起来，否则会报错``` </span><br><span class="line"></span><br><span class="line">**关联远程repository**</span><br><span class="line"></span><br><span class="line">```git remote add origin git@github.com:git_username/repository_name.git</span><br></pre></td></tr></table></figure>
+<p><strong>取消本地目录下关联的远程库</strong></p>
+<figure class="highlight plain"><figcaption><span>remote remove origin```</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">**推送修改**</span><br><span class="line"></span><br><span class="line">```git push origin master</span><br></pre></td></tr></table></figure>
+<p><strong>从Github克隆一个本地库</strong></p>
+<figure class="highlight plain"><figcaption><span>clone git@github.com:xxx/gxxx.git```</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">**查看远程库信息**</span><br><span class="line"></span><br><span class="line">```git remote -v</span><br></pre></td></tr></table></figure>
+<p><strong>多人协作的工作模式</strong></p>
 <blockquote>
-<p>场景1：当你改乱了工作区某个文件的内容，想直接丢弃工作区的修改时，用命令<code>git checkout -- file</code>。</p>
+<ol>
+<li>试图用<code>git push origin branch-name</code>推送自己的修改；</li>
+<li>如果推送失败，则因为远程分支比你的本地更新，需要先用<code>git pull</code>试图合并；</li>
+<li>如果合并有冲突，则解决冲突，并在本地提交；</li>
+<li>没有冲突或者解决掉冲突后，再用<code>git push origin branch-name</code>推送就能成功！</li>
+</ol>
+<p>如果<code>git pull</code>提示“no tracking information”，则说明本地分支和远程分支的链接关系没有创建，用命令<code>git branch --set-upstream branch-name origin/branch-name</code>。</p>
 </blockquote>
-<blockquote>
-<p>场景2：当你不但改乱了工作区某个文件的内容，还添加到了暂存区时，想丢弃修改，分两步，第一步用命令<code>git reset HEAD file</code>，就回到了场景1，第二步按场景1操作。</p>
-</blockquote>
-<p><strong>版本回退</strong></p>
-<blockquote>
-<p>HEAD指向的版本就是当前版本，使用命令<code>git reset --hard commit_id</code>可以回到指定版本</p>
-</blockquote>
-<blockquote>
-<p>用<code>git log</code>可以查看提交历史，以便确定要回退到哪个版本。</p>
-</blockquote>
-<blockquote>
-<p>用<code>git reflog</code>查看命令历史，以便确定要回到未来的哪个版本。</p>
-</blockquote>
-<p><strong>限制输出</strong></p>
-<p><code>git log -n 3</code> 只显示最后三次提交<br><code>git log --graph</code>  图形显示<br><code>git log --shortstat --oneline</code> 显示项目中有多少文件被修改</p>
-<hr>
+<p><strong>推送标签到远程</strong></p>
+<figure class="highlight plain"><figcaption><span>push origin xxx ```</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">一次性推送全部标签</span><br><span class="line"></span><br><span class="line">```git push origin --tags</span><br></pre></td></tr></table></figure>
+<p>删除标签</p>
 <ul>
-<li><strong><em>关于<a href="https://www.cnblogs.com/hustdc/p/6444910.html" target="_blank" rel="noopener">detached HEAD state</a>的一些知识</em></strong></li>
-<li><strong><em>语法大全</em></strong> </li>
+<li>命令<code>git tag -d &lt;tagname&gt;</code>可以删除一个本地标签；</li>
+<li>命令<code>git push origin :refs/tags/&lt;tagname&gt;</code>可以删除一个远程标签。</li>
 </ul>
-<p><img src="https://upload-images.jianshu.io/upload_images/290760-e8491f69473bf200.jpg" alt="git 语句"></p>
 
           
         
@@ -541,6 +527,168 @@
   
   
   <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2018/04/06/Git学习笔记（一）-初级语法/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="CZY">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/tx.jpg">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Greatcat">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+                
+                <a class="post-title-link" href="/2018/04/06/Git学习笔记（一）-初级语法/" itemprop="url">Git学习笔记-初级语法</a></h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">Posted on</span>
+              
+              <time title="Post created" itemprop="dateCreated datePublished" datetime="2018-04-06T14:40:55+08:00">
+                2018-04-06
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+
+          
+            
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          
+            <h2 id="初始准备"><a href="#初始准备" class="headerlink" title="初始准备"></a>初始准备</h2><p><strong>配置用户名与邮箱</strong></p>
+<figure class="highlight plain"><figcaption><span>config -global user.name"greatcat"```</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">```git config global user.email&quot;greatcat233@qq.com&quot;</span><br></pre></td></tr></table></figure>
+<p><strong>本地初始化一个git仓库</strong></p>
+<figure class="highlight plain"><figcaption><span>init```</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">**添加待提交文件**</span><br><span class="line"></span><br><span class="line">```git add test.txt</span><br></pre></td></tr></table></figure>
+<p><strong>提交文件</strong></p>
+<figure class="highlight plain"><figcaption><span>commit -m" balabala "```</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">**查看commit记录**</span><br><span class="line"></span><br><span class="line">```git log</span><br></pre></td></tr></table></figure>
+<p><strong>新建分支</strong></p>
+<figure class="highlight plain"><figcaption><span>branch name```</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">**切换分支**</span><br><span class="line"></span><br><span class="line">```git checkout name``` 	切换到name分支</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">**新建并切换分支**</span><br><span class="line"></span><br><span class="line">```git checkou -b name</span><br></pre></td></tr></table></figure>
+<p><strong>合并分支</strong></p>
+<figure class="highlight plain"><figcaption><span>checkout master```</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">```git merge name</span><br></pre></td></tr></table></figure>
+<p><strong>删除分支</strong></p>
+<figure class="highlight plain"><figcaption><span>branch -d name```</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">```git branch -D name (强制删除)</span><br></pre></td></tr></table></figure>
+<p><strong>标签</strong></p>
+<figure class="highlight plain"><figcaption><span>tage```</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">还可以创建带有说明的标签，用`-a`指定标签名，`-m`指定说明文字：</span><br><span class="line"></span><br><span class="line">``` git tag -a v0.1 -m &quot;version 0.1 released&quot;</span><br></pre></td></tr></table></figure>
+<p>还可以通过<code>-s</code>用私钥签名一个标签：</p>
+<figure class="highlight plain"><figcaption><span>tag -s v0.2 -m "signed version 0.2 released" ```</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">删除标签</span><br><span class="line"></span><br><span class="line">```git tag &apos;v1.0&apos;</span><br></pre></td></tr></table></figure>
+<p><strong>检查状态</strong></p>
+<figure class="highlight plain"><figcaption><span>diff 文件名```</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">**删除文件**</span><br><span class="line"></span><br><span class="line">```git rm 文件名</span><br></pre></td></tr></table></figure>
+<p><strong>撤销操作</strong></p>
+<blockquote>
+<p>场景1：当你改乱了工作区某个文件的内容，想直接丢弃工作区的修改时，用命令<code>git checkout -- file</code>。</p>
+</blockquote>
+<blockquote>
+<p>场景2：当你不但改乱了工作区某个文件的内容，还添加到了暂存区时，想丢弃修改，分两步，第一步用命令<code>git reset HEAD file</code>，就回到了场景1，第二步按场景1操作。</p>
+</blockquote>
+<p><strong>版本回退</strong></p>
+<blockquote>
+<p>HEAD指向的版本就是当前版本，使用命令<code>git reset --hard commit_id</code>可以回到指定版本</p>
+</blockquote>
+<blockquote>
+<p>用<code>git log</code>可以查看提交历史，以便确定要回退到哪个版本。</p>
+</blockquote>
+<blockquote>
+<p>用<code>git reflog</code>查看命令历史，以便确定要回到未来的哪个版本。</p>
+</blockquote>
+<p><strong>限制输出</strong></p>
+<p><code>git log -n 3</code> 只显示最后三次提交<br><code>git log --graph</code>  图形显示<br><code>git log --shortstat --oneline</code> 显示项目中有多少文件被修改</p>
+<hr>
+<ul>
+<li><strong><em>关于<a href="https://www.cnblogs.com/hustdc/p/6444910.html" target="_blank" rel="noopener">detached HEAD state</a>的一些知识</em></strong></li>
+<li><strong><em>语法大全</em></strong> </li>
+</ul>
+<p><img src="https://upload-images.jianshu.io/upload_images/290760-e8491f69473bf200.jpg" alt="git 语句"></p>
+
+          
+        
+      
+    </div>
+    
+    
+    
+
+    
+
+    
+
+    
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+    
+      
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
     <link itemprop="mainEntityOfPage" href="http://yoursite.com/2018/04/06/Hexo 搭建/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -632,154 +780,6 @@
 <p>deploy:<br>type: git<br>repo: GitHub仓库路径<br>branch: master</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo d</span><br></pre></td></tr></table></figure>
-
-          
-        
-      
-    </div>
-    
-    
-    
-
-    
-
-    
-
-    
-
-    <footer class="post-footer">
-      
-
-      
-
-      
-
-      
-      
-        <div class="post-eof"></div>
-      
-    </footer>
-  </div>
-  
-  
-  
-  </article>
-
-
-    
-      
-
-  
-
-  
-  
-  
-
-  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
-  
-  
-  
-  <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2018/04/06/Git学习笔记（二）-协作功能/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="name" content="CZY">
-      <meta itemprop="description" content="">
-      <meta itemprop="image" content="/images/tx.jpg">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="Greatcat">
-    </span>
-
-    
-      <header class="post-header">
-
-        
-        
-          <h1 class="post-title" itemprop="name headline">
-                
-                <a class="post-title-link" href="/2018/04/06/Git学习笔记（二）-协作功能/" itemprop="url">Git学习笔记（二）-协作功能</a></h1>
-        
-
-        <div class="post-meta">
-          <span class="post-time">
-            
-              <span class="post-meta-item-icon">
-                <i class="fa fa-calendar-o"></i>
-              </span>
-              
-                <span class="post-meta-item-text">Posted on</span>
-              
-              <time title="Post created" itemprop="dateCreated datePublished" datetime="2018-04-06T14:40:55+08:00">
-                2018-04-06
-              </time>
-            
-
-            
-
-            
-          </span>
-
-          
-
-          
-            
-          
-
-          
-          
-
-          
-
-          
-
-          
-
-        </div>
-      </header>
-    
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-
-      
-      
-
-      
-        
-          
-            <h1 id="分支"><a href="#分支" class="headerlink" title="分支"></a>分支</h1><p><strong>创建分支</strong></p>
-<figure class="highlight plain"><figcaption><span>checkout -b dev```</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">**删除分支**</span><br><span class="line"></span><br><span class="line">```git branch -d  dev</span><br></pre></td></tr></table></figure>
-<p><strong>列出所有分支</strong></p>
-<figure class="highlight plain"><figcaption><span>branch```</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">**合并分支**</span><br><span class="line"></span><br><span class="line">```git merge</span><br></pre></td></tr></table></figure>
-<p><strong>解决合并冲突</strong></p>
-<p>修改冲突文件 -&gt; git add -&gt; git commit </p>
-<p><strong>储藏未完成的工作</strong></p>
-<figure class="highlight plain"><figcaption><span>stash```</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">```git stash list```查看现有储藏</span><br><span class="line"></span><br><span class="line">```git stash branch ```从储存区创建分支</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line"># 远程仓库</span><br><span class="line"></span><br><span class="line">**克隆版本库**</span><br><span class="line"></span><br><span class="line">```git clone A B //若路径中有空格则需要用&quot;&quot;括起来，否则会报错``` </span><br><span class="line"></span><br><span class="line">**关联远程repository**</span><br><span class="line"></span><br><span class="line">```git remote add origin git@github.com:git_username/repository_name.git</span><br></pre></td></tr></table></figure>
-<p><strong>取消本地目录下关联的远程库</strong></p>
-<figure class="highlight plain"><figcaption><span>remote remove origin```</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">**推送修改**</span><br><span class="line"></span><br><span class="line">```git push origin master</span><br></pre></td></tr></table></figure>
-<p><strong>从Github克隆一个本地库</strong></p>
-<figure class="highlight plain"><figcaption><span>clone git@github.com:xxx/gxxx.git```</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">**查看远程库信息**</span><br><span class="line"></span><br><span class="line">```git remote -v</span><br></pre></td></tr></table></figure>
-<p><strong>多人协作的工作模式</strong></p>
-<blockquote>
-<ol>
-<li>试图用<code>git push origin branch-name</code>推送自己的修改；</li>
-<li>如果推送失败，则因为远程分支比你的本地更新，需要先用<code>git pull</code>试图合并；</li>
-<li>如果合并有冲突，则解决冲突，并在本地提交；</li>
-<li>没有冲突或者解决掉冲突后，再用<code>git push origin branch-name</code>推送就能成功！</li>
-</ol>
-<p>如果<code>git pull</code>提示“no tracking information”，则说明本地分支和远程分支的链接关系没有创建，用命令<code>git branch --set-upstream branch-name origin/branch-name</code>。</p>
-</blockquote>
-<p><strong>推送标签到远程</strong></p>
-<figure class="highlight plain"><figcaption><span>push origin xxx ```</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">一次性推送全部标签</span><br><span class="line"></span><br><span class="line">```git push origin --tags</span><br></pre></td></tr></table></figure>
-<p>删除标签</p>
-<ul>
-<li>命令<code>git tag -d &lt;tagname&gt;</code>可以删除一个本地标签；</li>
-<li>命令<code>git push origin :refs/tags/&lt;tagname&gt;</code>可以删除一个远程标签。</li>
-</ul>
 
           
         
