@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "Ziyang Chen's Homepage"
+title: "Ziyang Chen"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# About Me
+## About Me
 
 I'm a second year Phd student at National University of Defense Technology, interested in temporal reasoning, knowledge graph, and natural language processing.
