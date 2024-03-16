@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Ziyang Chen"
 title_separator          : "-"
 name                     : &name "Ziyang Chen"
-description              : &description "personal description"
+description              : &description "Phd student at National University of Defense Technology", interested in temporal reasoning, knowledge graph, and natural language processing."
 url                      : https://czy1999.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "czy1999/czy1999.github.io"
@@ -21,7 +21,7 @@ repository               : "czy1999/czy1999.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "2.png"
+  avatar           : "academic.png"
   name             : "Ziyang Chen"
   pronouns         : # example: "she/her"  
   bio              : "Phd student at National University of Defense Technology", interested in temporal reasoning, knowledge graph, and natural language processing."
@@ -64,7 +64,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
+  twitter          : #"UniofOxford"  # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
