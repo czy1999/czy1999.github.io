@@ -40,7 +40,7 @@ I’m a second year Ph.D. student at [National University of Defense Technology]
   **Ziyang Chen**, Xiang Zhao, Jinzhi Liao, Xinyi Li, Evangelos Kanoulas
   <br>**[[pdf](https://www.sciencedirect.com/science/article/pii/S0950705122005603)]**  **[[code](https://github.com/czy1999/SubGTR)]**
   
-  <img src="../images/SubGTR.png" style="display: block; margin: auto;"  width="500" height="280">
+  <img src="SubGTR.png" style="display: block; margin: auto;"  width="500" height="280">
   
 
 
