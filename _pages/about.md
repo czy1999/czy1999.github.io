@@ -21,26 +21,26 @@ I’m a second year Ph.D. student at [National University of Defense Technology]
   **Ziyang Chen**, Dongfang Li, Xiang Zhao, Baotian Hu, Min Zhang
   <br>**[[pdf](https://arxiv.org/abs/2311.09149)]** 
 
-  <img src="../images/ARI.png" style="display: block; margin: auto;"  width="480" height="200">
+  <img src="../images/ARI.png"  width="240" height="100">
 
 
 - **[ACL 2023]** Multi-granularity temporal question answering over knowledge graphs<br>
   **Ziyang Chen**, Jinzhi Liao, Xiang Zhao
   <br>**[[pdf](https://aclanthology.org/2023.acl-long.637.pdf)]**  **[[code](https://github.com/czy1999/MultiTQ)]**  **[[data](https://huggingface.co/datasets/chenziyang/MultiTQ)]** 
 
-  <img src="../images/MultiTQ.png" style="display: block; margin: auto;"  width="450" height="200">
+  <img src="../images/MultiTQ.png"  width="230" height="100">
 
 - **[arXiv 2023]** A survey of large language models attribution<br>
   Dongfang Li, Zetian Sun, Xinshuo Hu, Zhenyu Liu,  **Ziyang Chen**, Baotian Hu, Aiguo Wu, Min Zhang
   <br>**[[pdf](https://aclanthology.org/2023.acl-long.637.pdf)]**  **[[code](https://github.com/HITsz-TMG/awesome-llm-attributions)]** 
 
-  <img src="../images/LLM.png" style="display: block; margin: auto;"  width="400" height="200">
+  <img src="../images/LLM.png"   width="200" height="100">
 
 - **[KBS 2022]** Temporal knowledge graph question answering via subgraph reasoning<br>
   **Ziyang Chen**, Xiang Zhao, Jinzhi Liao, Xinyi Li, Evangelos Kanoulas
   <br>**[[pdf](https://www.sciencedirect.com/science/article/pii/S0950705122005603)]**  **[[code](https://github.com/czy1999/SubGTR)]**
   
-  <img src="../images/SubGTR.png" style="display: block; margin: auto;"  width="500" height="280">
+  <img src="../images/SubGTR.png"  width="250" height="140">
   
 
 
