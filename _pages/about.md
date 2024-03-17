@@ -18,7 +18,7 @@ I’m a second year Ph.D. student at [National University of Defense Technology]
 ## Publications
 
 - **[arXiv 2023]** Temporal knowledge question answering via abstract reasoning induction<br>
-  **Ziyang Chen**$^*$, Dongfang Li $^*$, Xiang Zhao, Baotian Hu, Min Zhang
+  **Ziyang Chen**, Dongfang Li, Xiang Zhao, Baotian Hu, Min Zhang
   <br>**[[pdf](https://arxiv.org/abs/2311.09149)]** 
 
 - **[ACL 2023]** Multi-granularity temporal question answering over knowledge graphs<br>
@@ -27,11 +27,16 @@ I’m a second year Ph.D. student at [National University of Defense Technology]
 
 - **[arXiv 2023]** A survey of large language models attribution<br>
   Dongfang Li, Zetian Sun, Xinshuo Hu, Zhenyu Liu,  **Ziyang Chen**, Baotian Hu, Aiguo Wu, Min Zhang
-  <br>**[[pdf](https://aclanthology.org/2023.acl-long.637.pdf)]** 
+  <br>**[[pdf](https://aclanthology.org/2023.acl-long.637.pdf)]**  **[[code](https://github.com/HITsz-TMG/awesome-llm-attributions)]**  
 
 - **[KBS 2022]** Temporal knowledge graph question answering via subgraph reasoning<br>
   **Ziyang Chen**, Xiang Zhao, Jinzhi Liao, Xinyi Li, Evangelos Kanoulas
   <br>**[[pdf](https://www.sciencedirect.com/science/article/pii/S0950705122005603)]**  **[[code](https://github.com/czy1999/SubGTR)]**
+
+
+
+
+
 
 
 
