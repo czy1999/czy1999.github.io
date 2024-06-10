@@ -17,7 +17,7 @@ I’m a second year Ph.D. student at [National University of Defense Technology]
 <ul style="color: lightblue;">I am actively looking for academic exchange and collaboration.</ul>
 ## Publications 
 
-- **[arXiv 2023]** Temporal knowledge question answering via abstract reasoning induction<br>
+- **[ACL 2024]** Temporal knowledge question answering via abstract reasoning induction<br>
   <u><strong>Ziyang Chen</strong></u>, Dongfang Li, Xiang Zhao, Baotian Hu, Min Zhang
   <br>**[[pdf](https://arxiv.org/abs/2311.09149)]** 
 
