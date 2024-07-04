@@ -26,6 +26,8 @@ The long-term goal of my research is to develop **self-evolving** artificial int
 
 
 <ul style="color: lightblue;">I am actively looking for academic exchange and collaboration.</ul>
+<ul style="color: lightblue;">📧 chenziyangnudt@nudt.edu.cn </ul>
+
 
 ## 🔥 News
 - 2024.05 ✨One [long paper](https://arxiv.org/abs/2311.09149) about LLM Temporal Reasoning is accepted by the main conference of ACL 2024!
@@ -89,6 +91,8 @@ I serve as the reviewer for
 ## 🏅 Award
 * Undergraduate National Scholarship
 * Freshman First-Class Scholarship of NUDT
+
+
 
 
 <!-- Google tag (gtag.js) -->
