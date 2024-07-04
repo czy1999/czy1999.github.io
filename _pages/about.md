@@ -10,19 +10,43 @@ redirect_from:
 
 <meta name="google-site-verification" content="bktacYt7qejHyQqNeNe_78-xESn94t1Y-HZ3Fa7tlGU" />
 
-## Bio
+## 😎 About Me (陈子阳)
 
-I’m a second year Ph.D. student at [National University of Defense Technology](https://english.nudt.edu.cn/), proudly advised by Prof. [Xiang Zhao](https://xiangz-nudt.github.io/). My research interests focus on temporal reasoning, knowledge graph, and large language models. 
+I’m a second year Ph.D. student at [National University of Defense Technology](https://english.nudt.edu.cn/), proudly advised by Prof. [Xiang Zhao (赵翔)](https://xiangz-nudt.github.io/). My research interests focus on temporal reasoning, knowledge graph, and large language models. 
+
+The long-term goal of my research is to develop **self-evolving** artificial intelligence that can liberate humanity from mundane tasks and contribute to the realization of communism. Areas of interest in research include:
+
+- Temporal Reasoning;
+- Continual Learning for Large Language models;
+- Temporal Knowledge Graph;
+- Trustworthy Artificial Intelligence;
+- Multi-Agent Collaboration on Social Science Research;
+- AI4Science
+
+
 
 <ul style="color: lightblue;">I am actively looking for academic exchange and collaboration.</ul>
-## Publications 
+
+## 🔥 News
+- 2024.05 ✨One [long paper](https://arxiv.org/abs/2311.09149) about LLM Temporal Reasoning is accepted by the main conference of ACL 2024!
+- 2023.07: 🎉Invited talk on TKGQA at [AIS 2023](http://site.cipsc.org.cn/qngw/)!
+- 2023.05 ✨One  [long paper](https://aclanthology.org/2023.acl-long.637.pdf) on TKGQA is accepted by the main conference of ACL 2023!
+
+
+
+## 📕 Selected Publications 
 
 - **[ACL 2024]** Temporal knowledge question answering via abstract reasoning induction<br>
   <u><strong>Ziyang Chen</strong></u>, Dongfang Li, Xiang Zhao, Baotian Hu, Min Zhang
-  <br>**[[pdf](https://arxiv.org/abs/2311.09149)]** 
+  <br>**[[pdf](https://arxiv.org/abs/2311.09149)]**  **[[code](https://github.com/czy1999/ARI-QA)]**  
 
   <!-- <img src="../images/ARI.png"  width="240" height="100"> -->
 
+- **[arXiv 2023]** A survey of large language models attribution<br>
+  Dongfang Li, Zetian Sun, Xinshuo Hu, Zhenyu Liu,   <u><strong>Ziyang Chen</strong></u>, Baotian Hu, Aiguo Wu, Min Zhang
+  <br>**[[pdf](https://aclanthology.org/2023.acl-long.637.pdf)]**  **[[code](https://github.com/HITsz-TMG/awesome-llm-attributions)]** 
+
+  <!-- <img src="../images/LLM.png"   width="200" height="100"> -->
 
 - **[ACL 2023]** Multi-granularity temporal question answering over knowledge graphs<br>
    <u><strong>Ziyang Chen</strong></u>, Jinzhi Liao, Xiang Zhao
@@ -30,11 +54,7 @@ I’m a second year Ph.D. student at [National University of Defense Technology]
 
   <!-- <img src="../images/MultiTQ.png"  width="230" height="100"> -->
 
-- **[arXiv 2023]** A survey of large language models attribution<br>
-  Dongfang Li, Zetian Sun, Xinshuo Hu, Zhenyu Liu,   <u><strong>Ziyang Chen</strong></u>, Baotian Hu, Aiguo Wu, Min Zhang
-  <br>**[[pdf](https://aclanthology.org/2023.acl-long.637.pdf)]**  **[[code](https://github.com/HITsz-TMG/awesome-llm-attributions)]** 
 
-  <!-- <img src="../images/LLM.png"   width="200" height="100"> -->
 
 - **[KBS 2022]** Temporal knowledge graph question answering via subgraph reasoning<br>
   <u><strong>Ziyang Chen</strong></u>, Xiang Zhao, Jinzhi Liao, Xinyi Li, Evangelos Kanoulas
@@ -49,11 +69,26 @@ I’m a second year Ph.D. student at [National University of Defense Technology]
 
 
 
-## Research Internship
+## 💼 Research Internship
 
-- 2024.02-present:: Research Intern at Institute for Intelligence Computing (DAMO Academy), Alibaba Group.
-- 2023.07-2024.02: Research Intern at Harbin Institute of Technology Shenzhen (HIT-SZ), advised by Prof. [Baotian Hu](https://faculty.hitsz.edu.cn/hubaotian).
+- 2024.02-present: Research Intern at [Institute for Intelligence Computing](https://tongyi.aliyun.com/) (previously [DAMO Academy](https://damo.alibaba.com/)), Alibaba Group.
+- 2023.07-2024.02: Visiting Student at Harbin Institute of Technology Shenzhen (HIT-SZ), advised by Prof. [Baotian Hu (户保田)](https://faculty.hitsz.edu.cn/hubaotian).
 
+## 💁 Service
+I serve as the reviewer for
+* ACL ARR (2023-), 
+* NeuIPS (2024-), 
+* IEEE TKDE (2024-) 
+* AAAI (2023-), 
+* CIKM (2023-), 
+* Neural Networks (2024-)
+* KBS (2022-)
+* NLPCC (2024-)
+* CCKS (2022-)
+
+## 🏅 Award
+* Undergraduate National Scholarship
+* Freshman First-Class Scholarship of NUDT
 
 
 <!-- Google tag (gtag.js) -->
