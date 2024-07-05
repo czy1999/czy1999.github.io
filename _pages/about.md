@@ -19,7 +19,6 @@ The long-term goal of my research is to develop **self-evolving** artificial int
 - Temporal Reasoning;
 - Continual Learning for Large Language models;
 - Temporal Knowledge Graph;
-- Trustworthy Artificial Intelligence;
 - Multi-Agent Collaboration on Social Science Research;
 - AI4Science
 
