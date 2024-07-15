@@ -29,6 +29,7 @@ The long-term goal of my research is to develop **self-evolving** artificial int
 
 
 ## 🔥 News
+- 2023.07: 🎉Invited talk on LLM Temporal Reasoning at [AI TIME](https://www.aitime.cn/)!
 - 2024.05 ✨One [long paper](https://arxiv.org/abs/2311.09149) about LLM Temporal Reasoning is accepted by the main conference of ACL 2024!
 - 2023.07: 🎉Invited talk on TKGQA at [AIS 2023](http://site.cipsc.org.cn/qngw/)!
 - 2023.05 ✨One  [long paper](https://aclanthology.org/2023.acl-long.637.pdf) on TKGQA is accepted by the main conference of ACL 2023!
@@ -76,7 +77,7 @@ The long-term goal of my research is to develop **self-evolving** artificial int
 - 2023.07-2024.02: Visiting Student at Harbin Institute of Technology Shenzhen (HIT-SZ), advised by Prof. [Baotian Hu (户保田)](https://faculty.hitsz.edu.cn/hubaotian).
 
 ## 💁 Service
-I serve as the reviewer for
+I serve as the PC member/reviewer for
 * ACL ARR (2023-), 
 * NeuIPS (2024-), 
 * IEEE TKDE (2024-) 
