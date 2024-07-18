@@ -29,10 +29,11 @@ The long-term goal of my research is to develop **self-evolving** artificial int
 
 
 ## 🔥 News
+- 2023.07: ✨One long paper and one short paper are accepted by [CIKM 2024](https://cikm2024.org/)!
 - 2023.07: 🎉Invited talk on LLM Temporal Reasoning at [AI TIME](https://www.aitime.cn/)!
 - 2024.05 ✨One [long paper](https://arxiv.org/abs/2311.09149) about LLM Temporal Reasoning is accepted by the main conference of ACL 2024!
 - 2023.07: 🎉Invited talk on TKGQA at [AIS 2023](http://site.cipsc.org.cn/qngw/)!
-- 2023.05 ✨One  [long paper](https://aclanthology.org/2023.acl-long.637.pdf) on TKGQA is accepted by the main conference of ACL 2023!
+- 2023.05: ✨One  [long paper](https://aclanthology.org/2023.acl-long.637.pdf) on TKGQA is accepted by the main conference of ACL 2023!
 
 
 
