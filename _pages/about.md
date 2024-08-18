@@ -12,7 +12,7 @@ redirect_from:
 
 ## 😎 About Me (陈子阳)
 
-I’m a second year Ph.D. student at [National University of Defense Technology](https://english.nudt.edu.cn/), proudly advised by Prof. [Xiang Zhao (赵翔)](https://xiangz-nudt.github.io/). My research interests focus on temporal reasoning, knowledge graph, and large language models. 
+I’m a second year Ph.D. student at [National University of Defense Technology (国防科技大学)](https://english.nudt.edu.cn/), proudly advised by Prof. [Xiang Zhao (赵翔)](https://xiangz-nudt.github.io/). My research interests focus on temporal reasoning, knowledge graph, and large language models. 
 
 The long-term goal of my research is to develop **self-evolving** artificial intelligence that can liberate humanity from mundane tasks.<!--and contribute to the realization of communism.--> Areas of interest in research include:
 
@@ -29,6 +29,7 @@ The long-term goal of my research is to develop **self-evolving** artificial int
 
 
 ## 🔥 News
+- 2023.07: 💼Joining the Baidu Intelligent Search team for a research internship, focusing on AI search
 - 2023.07: ✨One long paper and one short paper are accepted by [CIKM 2024](https://cikm2024.org/)!
 - 2023.07: 🎉Invited talk on LLM Temporal Reasoning at [AI TIME](https://www.aitime.cn/)!
 - 2024.05 ✨One [long paper](https://arxiv.org/abs/2311.09149) about LLM Temporal Reasoning is accepted by the main conference of ACL 2024!
@@ -73,7 +74,7 @@ The long-term goal of my research is to develop **self-evolving** artificial int
 
 
 ## 💼 Research Internship
-- 2024.02-present: Research Intern at 
+- 2024.08-present: Research Intern at 
 [Baidu’s Search Science Team](http://searchscience.baidu.com/), Baidu Inc.
 - 2024.02-2024.08: Research Intern at [Institute for Intelligence Computing](https://tongyi.aliyun.com/) (previously [DAMO Academy](https://damo.alibaba.com/)), Alibaba Group.
 - 2023.07-2024.02: Visiting Student at Harbin Institute of Technology Shenzhen (HIT-SZ), advised by Prof. [Baotian Hu (户保田)](https://faculty.hitsz.edu.cn/hubaotian).
