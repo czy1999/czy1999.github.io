@@ -14,7 +14,7 @@ redirect_from:
 
 I’m a second year Ph.D. student at [National University of Defense Technology](https://english.nudt.edu.cn/), proudly advised by Prof. [Xiang Zhao (赵翔)](https://xiangz-nudt.github.io/). My research interests focus on temporal reasoning, knowledge graph, and large language models. 
 
-The long-term goal of my research is to develop **self-evolving** artificial intelligence that can liberate humanity from mundane tasks and contribute to the realization of communism. Areas of interest in research include:
+The long-term goal of my research is to develop **self-evolving** artificial intelligence that can liberate humanity from mundane tasks.<!--and contribute to the realization of communism.--> Areas of interest in research include:
 
 - Temporal Reasoning;
 - Continual Learning for Large Language models;
@@ -73,8 +73,9 @@ The long-term goal of my research is to develop **self-evolving** artificial int
 
 
 ## 💼 Research Internship
-
-- 2024.02-present: Research Intern at [Institute for Intelligence Computing](https://tongyi.aliyun.com/) (previously [DAMO Academy](https://damo.alibaba.com/)), Alibaba Group.
+- 2024.02-present: Research Intern at 
+[Baidu’s Search Science Team](http://searchscience.baidu.com/), Baidu Inc.
+- 2024.02-2024.08: Research Intern at [Institute for Intelligence Computing](https://tongyi.aliyun.com/) (previously [DAMO Academy](https://damo.alibaba.com/)), Alibaba Group.
 - 2023.07-2024.02: Visiting Student at Harbin Institute of Technology Shenzhen (HIT-SZ), advised by Prof. [Baotian Hu (户保田)](https://faculty.hitsz.edu.cn/hubaotian).
 
 ## 💁 Service
