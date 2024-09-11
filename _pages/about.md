@@ -25,14 +25,15 @@ The long-term goal of my research is to develop **self-evolving** artificial int
 
 
 <ul style="color: blue;">I am actively looking for academic exchange and collaboration.</ul>
-<ul style="color: blue;">📧 chenziyangnudt@nudt.edu.cn </ul>
+<ul style="color: blue;">📧 chenziyangnudt@nudt.edu.cn /  chenziyang319@163.com</ul>
 
 
 ## 🔥 News
-- 2023.08: 💼Joining [Baidu Intelligent Search team](http://searchscience.baidu.com/) for a research internship, focusing on AI search!
-- 2023.07: ✨One long paper and one short paper are accepted by [CIKM 2024](https://cikm2024.org/)!
-- 2023.07: 🎉Invited talk on LLM Temporal Reasoning at [AI TIME](https://www.aitime.cn/)!
-- 2024.05 ✨One [long paper](https://arxiv.org/abs/2311.09149) about LLM Temporal Reasoning is accepted by the main conference of ACL 2024!
+- 2024.09: ✨One paper about Multi-Agent Scientific Hypothesis Generation is accepted by [Journal of Computer Research and Development](https://crad.ict.ac.cn/)!
+- 2024.08: 💼Joining [Baidu Intelligent Search team](http://searchscience.baidu.com/) for a research internship, focusing on AI search!
+- 2024.07: ✨One long paper and one short paper are accepted by [CIKM 2024](https://cikm2024.org/)!
+- 2024.07: 🎉Invited talk on LLM Temporal Reasoning at [AI TIME](https://www.aitime.cn/)!
+- 2024.05: ✨One [long paper](https://aclanthology.org/2024.acl-long.267/) about LLM Temporal Reasoning is accepted by the main conference of ACL 2024!
 - 2023.07: 🎉Invited talk on TKGQA at [AIS 2023](http://site.cipsc.org.cn/qngw/)!
 - 2023.05: ✨One  [long paper](https://aclanthology.org/2023.acl-long.637.pdf) on TKGQA is accepted by the main conference of ACL 2023!
 
@@ -84,6 +85,7 @@ I serve as the PC member/reviewer for
 * ACL ARR (2023-), 
 * NeuIPS (2024-), 
 * IEEE TKDE (2024-) 
+* IEEE TNNLS (2024-)
 * AAAI (2023-), 
 * CIKM (2023-), 
 * Neural Networks (2024-)
