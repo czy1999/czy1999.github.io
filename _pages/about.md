@@ -12,7 +12,7 @@ redirect_from:
 
 ## 😎 About Me (陈子阳)
 
-I’m a second year Ph.D. student at [National University of Defense Technology (国防科技大学)](https://english.nudt.edu.cn/), proudly advised by Prof. [Xiang Zhao (赵翔)](https://xiangz-nudt.github.io/). My research interests focus on temporal reasoning, knowledge graph, and large language models. 
+I'm a second year Ph.D. student at [National University of Defense Technology (国防科技大学)](https://english.nudt.edu.cn/), proudly advised by Prof. [Xiang Zhao (赵翔)](https://xiangz-nudt.github.io/). My research interests focus on temporal reasoning, knowledge graph, and large language models. 
 
 The long-term goal of my research is to develop **self-evolving** artificial intelligence that can liberate humanity from mundane tasks.<!--and contribute to the realization of communism.--> Areas of interest in research include:
 
@@ -29,7 +29,7 @@ The long-term goal of my research is to develop **self-evolving** artificial int
 
 
 ## 🔥 News
-- 2024.09: ✨One paper about Multi-Agent Scientific Hypothesis Generation is accepted by [Journal of Computer Research and Development](https://crad.ict.ac.cn/)!
+- 2024.09: ✨One paper about Multi-Agent Scientific Hypothesis Generation is accepted by [JCRD (计算机研究与发展)](https://crad.ict.ac.cn/)!
 - 2024.08: 💼Joining [Baidu Intelligent Search team](http://searchscience.baidu.com/) for a research internship, focusing on AI search!
 - 2024.07: ✨One long paper and one short paper are accepted by [CIKM 2024](https://cikm2024.org/)!
 - 2024.07: 🎉Invited talk on LLM Temporal Reasoning at [AI TIME](https://www.aitime.cn/)!
@@ -83,14 +83,15 @@ The long-term goal of my research is to develop **self-evolving** artificial int
 ## 💁 Service
 I serve as the PC member/reviewer for
 * ACL ARR (2023-), 
-* NeuIPS (2024-), 
-* IEEE TKDE (2024-) 
-* IEEE TNNLS (2024-)
+* NeurIPS (2024-), 
+* ICLR (2024-), 
+* IEEE TKDE (2024-) , 
+* IEEE TNNLS (2024-), 
 * AAAI (2023-), 
 * CIKM (2023-), 
-* Neural Networks (2024-)
-* KBS (2022-)
-* NLPCC (2024-)
+* Neural Networks (2024-), 
+* KBS (2022-), 
+* NLPCC (2024-), 
 * CCKS (2022-)
 
 ## 🏅 Award
