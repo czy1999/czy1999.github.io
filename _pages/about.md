@@ -41,6 +41,10 @@ The long-term goal of my research is to develop **self-evolving** artificial int
 
 ## 📕 Selected Publications 
 
+- **[arXiv 2024]** An Adaptive Framework for Generating Systematic Explanatory Answer in Online Q&A Platforms<br>
+  <u><strong>Ziyang Chen</strong></u>, Xiaobin Wang, Yong Jiang, Jinzhi Liao, Pengjun Xie, Fei Huang, Xiang Zhao
+  <br>**[[pdf](https://arxiv.org/abs/2410.17694)]**  **[[code](https://github.com/czy1999/SynthRAG)]**  
+
 - **[ACL 2024]** Temporal knowledge question answering via abstract reasoning induction<br>
   <u><strong>Ziyang Chen</strong></u>, Dongfang Li, Xiang Zhao, Baotian Hu, Min Zhang
   <br>**[[pdf](https://arxiv.org/abs/2311.09149)]**  **[[code](https://github.com/czy1999/ARI-QA)]**  
