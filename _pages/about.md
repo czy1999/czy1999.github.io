@@ -29,6 +29,8 @@ The long-term goal of my research is to develop **self-evolving** artificial int
 
 
 ## 🔥 News
+- 2025.05: 💼 Joining [Meituan Fundamental R&D Platform](https://tech.meituan.com/) as a Beidou Program (北斗计划), research intern, focusing on AI Agent for merchant assistants.
+- 2025.04: ✨We have released [ChronoQA](https://github.com/czy1999/ChronoQA), one of the most comprehensive temporal RAG dataset to date! The dataset is now available for download, and the paper will be released soon!
 - 2024.09: ✨One paper about Multi-Agent Scientific Hypothesis Generation is accepted by [JCRD (计算机研究与发展)](https://crad.ict.ac.cn/)!
 - 2024.08: 💼Joining [Baidu Intelligent Search team](http://searchscience.baidu.com/) for a research internship, focusing on AI search!
 - 2024.07: ✨One long paper and one short paper are accepted by [CIKM 2024](https://cikm2024.org/)!
@@ -79,6 +81,7 @@ The long-term goal of my research is to develop **self-evolving** artificial int
 
 
 ## 💼 Research Internship
+- 2025.05: 💼 Beidou Program (北斗计划) Research Intern at [Meituan Fundamental R&D Platform](https://tech.meituan.com/), Meituan Inc.
 - 2024.08-present: Research Intern at 
 [Baidu’s Search Science Team](http://searchscience.baidu.com/), Baidu Inc.
 - 2024.02-2024.08: Research Intern at [Institute for Intelligence Computing](https://tongyi.aliyun.com/) (previously [DAMO Academy](https://damo.alibaba.com/)), Alibaba Group.
