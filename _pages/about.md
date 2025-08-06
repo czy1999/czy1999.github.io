@@ -82,7 +82,7 @@ The long-term goal of my research is to develop **self-evolving** artificial int
 
 ## 💼 Research Internship
 - 2025.05: 💼 Beidou Program (北斗计划) Research Intern at [Meituan Fundamental R&D Platform](https://tech.meituan.com/), Meituan Inc.
-- 2024.08-present: Research Intern at 
+- 2024.08-2025.02: Research Intern at 
 [Baidu’s Search Science Team](http://searchscience.baidu.com/), Baidu Inc.
 - 2024.02-2024.08: Research Intern at [Institute for Intelligence Computing](https://tongyi.aliyun.com/) (previously [DAMO Academy](https://damo.alibaba.com/)), Alibaba Group.
 - 2023.07-2024.02: Visiting Student at Harbin Institute of Technology Shenzhen (HIT-SZ), advised by Prof. [Baotian Hu (户保田)](https://faculty.hitsz.edu.cn/hubaotian).
