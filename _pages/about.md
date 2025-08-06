@@ -29,6 +29,7 @@ The long-term goal of my research is to develop **self-evolving** artificial int
 
 
 ## 🔥 News
+- 2025.08: ✨One long paper about Temporal RAG is accepted by [CIKM 2025](https://cikm2025.org/)!
 - 2025.05: 💼 Joining [Meituan Fundamental R&D Platform](https://tech.meituan.com/) as a Beidou Program (北斗计划), research intern, focusing on AI Agent for merchant assistants.
 - 2025.04: ✨We have released [ChronoQA](https://github.com/czy1999/ChronoQA), one of the most comprehensive temporal RAG dataset to date! The dataset is now available for download, and the paper will be released soon!
 - 2024.09: ✨One paper about Multi-Agent Scientific Hypothesis Generation is accepted by [JCRD (计算机研究与发展)](https://crad.ict.ac.cn/)!
@@ -81,10 +82,10 @@ The long-term goal of my research is to develop **self-evolving** artificial int
 
 
 ## 💼 Research Internship
-- 2025.05: 💼 Beidou Program (北斗计划) Research Intern at [Meituan Fundamental R&D Platform](https://tech.meituan.com/), Meituan Inc.
+- 2025.05: Beidou Program (北斗计划) Research Intern at [Meituan Fundamental R&D Platform](https://tech.meituan.com/), Meituan Inc.
 - 2024.08-2025.02: Research Intern at 
 [Baidu’s Search Science Team](http://searchscience.baidu.com/), Baidu Inc.
-- 2024.02-2024.08: Research Intern at [Institute for Intelligence Computing](https://tongyi.aliyun.com/) (previously [DAMO Academy](https://damo.alibaba.com/)), Alibaba Group.
+- 2024.02-2024.08: Research Intern at [Tongyi Lab](https://tongyi.aliyun.com/) (previously [DAMO Academy](https://damo.alibaba.com/)), Alibaba Group.
 - 2023.07-2024.02: Visiting Student at Harbin Institute of Technology Shenzhen (HIT-SZ), advised by Prof. [Baotian Hu (户保田)](https://faculty.hitsz.edu.cn/hubaotian).
 
 ## 💁 Service
@@ -92,11 +93,13 @@ I serve as the PC member/reviewer for
 * ACL ARR (2023-), 
 * NeurIPS (2024-), 
 * ICLR (2024-), 
+* ICML (2025-), 
 * IEEE TKDE (2024-) , 
 * IEEE TNNLS (2024-), 
 * AAAI (2023-), 
 * CIKM (2023-), 
 * Neural Networks (2024-), 
+* Information Fusion (2025-)
 * KBS (2022-), 
 * NLPCC (2024-), 
 * CCKS (2022-)
