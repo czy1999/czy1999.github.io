@@ -44,6 +44,10 @@ The long-term goal of my research is to develop **self-evolving** artificial int
 
 ## 📕 Selected Publications 
 
+- **[CIKM 2025]** Advancing Temporal Sensitive RAG through Progressive Multi-Step Reflection<br>
+  <u><strong>Ziyang Chen</strong></u>, Erxue Min, Xiang Zhao, Yunxin Li, Xin Jia, Jinzhi Liao, Dawei Yin
+  <br>**[[dataset](https://github.com/czy1999/ChronoQA)]**  
+
 - **[arXiv 2024]** An Adaptive Framework for Generating Systematic Explanatory Answer in Online Q&A Platforms<br>
   <u><strong>Ziyang Chen</strong></u>, Xiaobin Wang, Yong Jiang, Jinzhi Liao, Pengjun Xie, Fei Huang, Xiang Zhao
   <br>**[[pdf](https://arxiv.org/abs/2410.17694)]**  **[[code](https://github.com/czy1999/SynthRAG)]**  
