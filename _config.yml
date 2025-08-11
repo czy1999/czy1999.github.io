@@ -21,7 +21,7 @@ repository               : "czy1999/czy1999.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "academic.jpg"
+  avatar           : "academic.png"
   name             : "Ziyang Chen"
   pronouns         : # example: "she/her"  
   bio              : "2st-Year Ph.D. Student@NUDT" #"Phd student at National University of Defense Technology, interested in temporal reasoning, knowledge graph, and natural language processing."
