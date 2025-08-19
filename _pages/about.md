@@ -44,9 +44,13 @@ The long-term goal of my research is to develop **self-evolving** artificial int
 
 ## 📕 Selected Publications 
 
+- **[arXiv 2025]** A Question Answering Dataset for Temporal-Sensitive Retrieval-Augmented Generation<br>
+  <u><strong>Ziyang Chen</strong></u>, Erxue Min, Xiang Zhao, Yunxin Li, Xin Jia, Jinzhi Liao, Jichao Li, Shuaiqiang Wang, Baotian Hu, Dawei Yin
+  <br>**[[pdf](https://arxiv.org/abs/2508.12282)]**  **[[code](https://github.com/czy1999/ChronoQA)]** 
+
 - **[CIKM 2025]** Advancing Temporal Sensitive RAG through Progressive Multi-Step Reflection<br>
   <u><strong>Ziyang Chen</strong></u>, Erxue Min, Xiang Zhao, Yunxin Li, Xin Jia, Jinzhi Liao, Dawei Yin
-  <br>**[[dataset](https://github.com/czy1999/ChronoQA)]**  
+  <br>**[[dataset](https://github.com/czy1999/ChronoReflect)]**  
 
 - **[arXiv 2024]** An Adaptive Framework for Generating Systematic Explanatory Answer in Online Q&A Platforms<br>
   <u><strong>Ziyang Chen</strong></u>, Xiaobin Wang, Yong Jiang, Jinzhi Liao, Pengjun Xie, Fei Huang, Xiang Zhao
@@ -54,13 +58,9 @@ The long-term goal of my research is to develop **self-evolving** artificial int
 
 - **[ACL 2024]** Temporal knowledge question answering via abstract reasoning induction<br>
   <u><strong>Ziyang Chen</strong></u>, Dongfang Li, Xiang Zhao, Baotian Hu, Min Zhang
-  <br>**[[pdf](https://arxiv.org/abs/2311.09149)]**  **[[code](https://github.com/czy1999/ARI-QA)]**  
+  <br>**[[pdf](https://aabs/2311.09149)]**  **[[code](https://github.com/czy1999/ARI-QA)]**  
 
   <!-- <img src="../images/ARI.png"  width="240" height="100"> -->
-
-- **[arXiv 2023]** A survey of large language models attribution<br>
-  Dongfang Li, Zetian Sun, Xinshuo Hu, Zhenyu Liu,   <u><strong>Ziyang Chen</strong></u>, Baotian Hu, Aiguo Wu, Min Zhang
-  <br>**[[pdf](https://aclanthology.org/2023.acl-long.637.pdf)]**  **[[code](https://github.com/HITsz-TMG/awesome-llm-attributions)]** 
 
   <!-- <img src="../images/LLM.png"   width="200" height="100"> -->
 
