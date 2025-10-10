@@ -38,6 +38,7 @@ The long-term goal of my research is to develop **self-evolving** artificial int
 - 2024.07: ✨One long paper and one short paper are accepted by [CIKM 2024](https://cikm2024.org/)!
 - 2024.07: 🎉Invited talk on LLM Temporal Reasoning at [AI TIME](https://www.aitime.cn/)!
 - 2024.05: ✨One [long paper](https://aclanthology.org/2024.acl-long.267/) about LLM Temporal Reasoning is accepted by the main conference of ACL 2024!
+- 2024.02: 💼Joining [Tongyi Lab](https://tongyi.aliyun.com/) for a research internship, focusing on DeepResearch!
 - 2023.07: 🎉Invited talk on TKGQA at [AIS 2023](http://site.cipsc.org.cn/qngw/)!
 - 2023.05: ✨One  [long paper](https://aclanthology.org/2023.acl-long.637.pdf) on TKGQA is accepted by the main conference of ACL 2023!
 
