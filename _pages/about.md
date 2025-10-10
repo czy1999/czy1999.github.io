@@ -12,7 +12,7 @@ redirect_from:
 
 ## 😎 About Me (陈子阳)
 
-I'm a second year Ph.D. student at [National University of Defense Technology (国防科技大学)](https://english.nudt.edu.cn/), proudly advised by Prof. [Xiang Zhao (赵翔)](https://xiangz-nudt.github.io/). My research interests focus on temporal reasoning, knowledge graph, and large language models. 
+I'm a third year Ph.D. student at [National University of Defense Technology (国防科技大学)](https://english.nudt.edu.cn/), proudly advised by Prof. [Xiang Zhao (赵翔)](https://xiangz-nudt.github.io/). My research interests focus on temporal reasoning, knowledge graph, and large language models. 
 
 The long-term goal of my research is to develop **self-evolving** artificial intelligence that can liberate humanity from mundane tasks.<!--and contribute to the realization of communism.--> Areas of interest in research include:
 
@@ -29,6 +29,7 @@ The long-term goal of my research is to develop **self-evolving** artificial int
 
 
 ## 🔥 News
+- 2025.10: ✨One long paper about Temporal RAG Benchmark is accepted by [Nature Scientific Data](https://cikm2025.org/)!
 - 2025.08: ✨One long paper about Temporal RAG is accepted by [CIKM 2025](https://cikm2025.org/)!
 - 2025.05: 💼 Joining [Meituan Fundamental R&D Platform](https://tech.meituan.com/) as a Beidou Program (北斗计划), research intern, focusing on AI Agent for merchant assistants.
 - 2025.04: ✨We have released [ChronoQA](https://github.com/czy1999/ChronoQA), one of the most comprehensive temporal RAG dataset to date! The dataset is now available for download, and the paper will be released soon!
@@ -44,7 +45,7 @@ The long-term goal of my research is to develop **self-evolving** artificial int
 
 ## 📕 Selected Publications 
 
-- **[arXiv 2025]** A Question Answering Dataset for Temporal-Sensitive Retrieval-Augmented Generation<br>
+- **[Nature Scientific Data 2025]** A Question Answering Dataset for Temporal-Sensitive Retrieval-Augmented Generation<br>
   <u><strong>Ziyang Chen</strong></u>, Erxue Min, Xiang Zhao, Yunxin Li, Xin Jia, Jinzhi Liao, Jichao Li, Shuaiqiang Wang, Baotian Hu, Dawei Yin
   <br>**[[pdf](https://arxiv.org/abs/2508.12282)]**  **[[code](https://github.com/czy1999/ChronoQA)]** 
 
@@ -86,7 +87,7 @@ The long-term goal of my research is to develop **self-evolving** artificial int
 
 
 ## 💼 Research Internship
-- 2025.05: Beidou Program (北斗计划) Research Intern at [Meituan Fundamental R&D Platform](https://tech.meituan.com/), Meituan Inc.
+- 2025.05-2025.11: Beidou Program (北斗计划) Research Intern at [Meituan Fundamental R&D Platform](https://tech.meituan.com/), Meituan Inc.
 - 2024.08-2025.02: Research Intern at 
 [Baidu’s Search Science Team](http://searchscience.baidu.com/), Baidu Inc.
 - 2024.02-2024.08: Research Intern at [Tongyi Lab](https://tongyi.aliyun.com/) (previously [DAMO Academy](https://damo.alibaba.com/)), Alibaba Group.
