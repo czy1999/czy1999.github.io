@@ -29,7 +29,7 @@ The long-term goal of my research is to develop **self-evolving** artificial int
 
 
 ## 🔥 News
-- 2025.10: ✨One long paper about Temporal RAG Benchmark is accepted by [Nature Scientific Data](https://cikm2025.org/)!
+- 2025.10: ✨One long paper about Temporal RAG Benchmark is accepted by [Nature Scientific Data](https://www.nature.com/articles/s41597-025-06098-y)!
 - 2025.08: ✨One long paper about Temporal RAG is accepted by [CIKM 2025](https://cikm2025.org/)!
 - 2025.05: 💼 Joining [Meituan Fundamental R&D Platform](https://tech.meituan.com/) as a Beidou Program (北斗计划), research intern, focusing on AI Agent for merchant assistants.
 - 2025.04: ✨We have released [ChronoQA](https://github.com/czy1999/ChronoQA), one of the most comprehensive temporal RAG dataset to date! The dataset is now available for download, and the paper will be released soon!
@@ -48,7 +48,7 @@ The long-term goal of my research is to develop **self-evolving** artificial int
 
 - **[Nature Scientific Data 2025]** A Question Answering Dataset for Temporal-Sensitive Retrieval-Augmented Generation<br>
   <u><strong>Ziyang Chen</strong></u>, Erxue Min, Xiang Zhao, Yunxin Li, Xin Jia, Jinzhi Liao, Jichao Li, Shuaiqiang Wang, Baotian Hu, Dawei Yin
-  <br>**[[pdf](https://arxiv.org/abs/2508.12282)]**  **[[code](https://github.com/czy1999/ChronoQA)]** 
+  <br>**[[pdf](https://www.nature.com/articles/s41597-025-06098-y)]**  **[[code](https://github.com/czy1999/ChronoQA)]** 
 
 - **[CIKM 2025]** Advancing Temporal Sensitive RAG through Progressive Multi-Step Reflection<br>
   <u><strong>Ziyang Chen</strong></u>, Erxue Min, Xiang Zhao, Yunxin Li, Xin Jia, Jinzhi Liao, Dawei Yin
