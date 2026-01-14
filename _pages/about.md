@@ -16,12 +16,10 @@ I'm a third year Ph.D. student at [National University of Defense Technology (�
 
 The long-term goal of my research is to develop **self-evolving** artificial intelligence that can liberate humanity from mundane tasks.<!--and contribute to the realization of communism.--> Areas of interest in research include:
 
-- Temporal Reasoning;
-- Continual Learning for Large Language models;
 - Temporal Knowledge Graph;
+- Knowledge Enhancement and Memory in LLM Agents;
+- Continual Learning for Large Language models;
 - Multi-Agent Collaboration on Social Science Research;
-- AI4Science
-
 
 
 <ul style="color: blue;">I am actively looking for academic exchange and collaboration.</ul>
@@ -29,6 +27,7 @@ The long-term goal of my research is to develop **self-evolving** artificial int
 
 
 ## 🔥 News
+- 2025.11: ✨Our [WOWService technical report](https://arxiv.org/pdf/2510.13291) is released!
 - 2025.10: ✨One long paper about Temporal RAG Benchmark is accepted by [Nature Scientific Data](https://www.nature.com/articles/s41597-025-06098-y)!
 - 2025.08: ✨One long paper about Temporal RAG is accepted by [CIKM 2025](https://cikm2025.org/)!
 - 2025.05: 💼 Joining [Meituan Fundamental R&D Platform](https://tech.meituan.com/) as a Beidou Program (北斗计划), research intern, focusing on AI Agent for merchant assistants.
@@ -45,6 +44,8 @@ The long-term goal of my research is to develop **self-evolving** artificial int
 
 
 ## 📕 Selected Publications 
+- **[Techical Report]** Higher Satisfaction, Lower Cost: A Technical Report on How LLMs Revolutionize Meituan's Intelligent Interaction Systems
+ <br>**[[pdf](https://arxiv.org/pdf/2510.13291)] [[news](https://mp.weixin.qq.com/s/_WhBBUICK8mLydGO16Ofxg)]**
 
 - **[Nature Scientific Data 2025]** A Question Answering Dataset for Temporal-Sensitive Retrieval-Augmented Generation<br>
   <u><strong>Ziyang Chen</strong></u>, Erxue Min, Xiang Zhao, Yunxin Li, Xin Jia, Jinzhi Liao, Jichao Li, Shuaiqiang Wang, Baotian Hu, Dawei Yin
@@ -83,12 +84,8 @@ The long-term goal of my research is to develop **self-evolving** artificial int
 
 
 
-
-
-
-
 ## 💼 Research Internship
-- 2025.05-2025.11: Beidou Program (北斗计划) Research Intern at [Meituan Fundamental R&D Platform](https://tech.meituan.com/), Meituan Inc.
+- 2025.05-2025.11: Research Intern at [Meituan Fundamental R&D Platform, LongCat Interaction Team](https://tech.meituan.com/), Meituan Inc.
 - 2024.08-2025.02: Research Intern at 
 [Baidu’s Search Science Team](http://searchscience.baidu.com/), Baidu Inc.
 - 2024.02-2024.08: Research Intern at [Tongyi Lab](https://tongyi.aliyun.com/) (previously [DAMO Academy](https://damo.alibaba.com/)), Alibaba Group.
