@@ -27,6 +27,7 @@ The long-term goal of my research is to develop **self-evolving** artificial int
 
 
 ## 🔥 News
+- 2026.04: ✨One long paper about Group-level User Simulation is accepted by [SIGIR 2026 Industry Track](https://sigir2026.org/en-AU/pages/submissions/industry-track)!
 - 2025.11: ✨Our [WOWService technical report](https://arxiv.org/pdf/2510.13291) is released!
 - 2025.10: ✨One long paper about Temporal RAG Benchmark is accepted by [Nature Scientific Data](https://www.nature.com/articles/s41597-025-06098-y)!
 - 2025.08: ✨One long paper about Temporal RAG is accepted by [CIKM 2025](https://cikm2025.org/)!
@@ -44,7 +45,12 @@ The long-term goal of my research is to develop **self-evolving** artificial int
 
 
 ## 📕 Selected Publications 
-- **[Technical Report]** Higher Satisfaction, Lower Cost: A Technical Report on How LLMs Revolutionize Meituan's Intelligent Interaction Systems
+- **[SIGIR 2026]** Meituan Merchant Business Diagnosis via Policy-Guided Dual-Process User Simulation
+
+  <u><strong>Ziyang Chen</strong></u>, Renbing Chen, Daowei Li, Jinzhi Liao, Jiashen Sun, Ke Zeng, Xiang Zhao
+ <br>**[[TBD]()]**
+
+- **[Technical Report 2026]** Higher Satisfaction, Lower Cost: A Technical Report on How LLMs Revolutionize Meituan's Intelligent Interaction Systems
  <br>**[[pdf](https://arxiv.org/pdf/2510.13291)] [[news](https://mp.weixin.qq.com/s/_WhBBUICK8mLydGO16Ofxg)]**
 
 - **[Nature Scientific Data 2025]** A Question Answering Dataset for Temporal-Sensitive Retrieval-Augmented Generation<br>
