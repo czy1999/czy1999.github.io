@@ -45,12 +45,12 @@ The long-term goal of my research is to develop **self-evolving** artificial int
 
 
 ## 📕 Selected Publications 
-- **[SIGIR 2026]** Meituan Merchant Business Diagnosis via Policy-Guided Dual-Process User Simulation
-
+- **[SIGIR 2026]** Meituan Merchant Business Diagnosis via Policy-Guided Dual-Process User Simulation<br>
   <u><strong>Ziyang Chen</strong></u>, Renbing Chen, Daowei Li, Jinzhi Liao, Jiashen Sun, Ke Zeng, Xiang Zhao
  <br>**[[TBD]()]**
 
-- **[Technical Report 2026]** Higher Satisfaction, Lower Cost: A Technical Report on How LLMs Revolutionize Meituan's Intelligent Interaction Systems
+- **[Technical Report 2026]** Higher Satisfaction, Lower Cost: A Technical Report on How LLMs Revolutionize Meituan's Intelligent Interaction Systems<br>
+<u><strong>Ziyang Chen</strong></u> as one of the contributors
  <br>**[[pdf](https://arxiv.org/pdf/2510.13291)] [[news](https://mp.weixin.qq.com/s/_WhBBUICK8mLydGO16Ofxg)]**
 
 - **[Nature Scientific Data 2025]** A Question Answering Dataset for Temporal-Sensitive Retrieval-Augmented Generation<br>
