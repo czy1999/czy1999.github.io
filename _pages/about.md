@@ -12,17 +12,17 @@ redirect_from:
 
 ## 😎 About Me (陈子阳)
 
-I'm a third year Ph.D. student at [National University of Defense Technology (国防科技大学)](https://english.nudt.edu.cn/), proudly advised by Prof. [Xiang Zhao (赵翔)](https://xiangz-nudt.github.io/). My research interests focus on temporal reasoning, knowledge graph, and large language models. 
+I'm a Ph.D. candidate at [National University of Defense Technology (国防科技大学)](https://english.nudt.edu.cn/), proudly advised by Prof. [Xiang Zhao (赵翔)](https://xiangz-nudt.github.io/). My research interests focus on temporal reasoning, knowledge graph, and large language models. 
 
 The long-term goal of my research is to develop **self-evolving** artificial intelligence that can liberate humanity from mundane tasks.<!--and contribute to the realization of communism.--> Areas of interest in research include:
 
 - Temporal Knowledge Graph;
 - Knowledge Enhancement and Memory in LLM Agents;
-- Continual Learning for Large Language models;
+- Data Agent;
 - Multi-Agent Collaboration on Social Science Research;
 
 
-<ul style="color: blue;">I am actively looking for academic exchange and collaboration.</ul>
+<ul style="color: blue;">I am actively looking for academic collaboration.</ul>
 <ul style="color: blue;">📧 chenziyangnudt@nudt.edu.cn /  chenziyang319@163.com</ul>
 
 
