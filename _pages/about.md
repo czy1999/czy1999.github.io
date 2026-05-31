@@ -16,10 +16,11 @@ I'm a Ph.D. candidate at [National University of Defense Technology (国防科�
 
 The long-term goal of my research is to develop **self-evolving** artificial intelligence that can liberate humanity from mundane tasks.<!--and contribute to the realization of communism.--> Areas of interest in research include:
 
-- Temporal Knowledge Graph;
 - Knowledge Enhancement and Memory in LLM Agents;
-- Data Agent;
+- Data Agent Application;
 - Multi-Agent Collaboration on Social Science Research;
+- Temporal Knowledge Graph;
+
 
 
 <ul style="color: blue;">I am actively looking for academic collaboration.</ul>
