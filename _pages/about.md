@@ -94,7 +94,7 @@ The long-term goal of my research is to develop **self-evolving** artificial int
 
 
 ## 💼 Research Internship
-- 2026.02-2026.5: Research Intern at [Tencent Hunyuan Team](https://hy.tencent.com/), Tencent Inc.
+- 2026.02-2026.05: Research Intern at [Tencent Hunyuan Team](https://hy.tencent.com/), Tencent Inc.
 - 2025.05-2025.12: Research Intern at [Meituan Fundamental R&D Platform, LongCat Interaction Team](https://tech.meituan.com/), Meituan Inc.
 - 2024.08-2025.02: Research Intern at [Baidu’s Search Science Team](http://searchscience.baidu.com/), Baidu Inc.
 - 2024.02-2024.08: Research Intern at [Tongyi Lab](https://tongyi.aliyun.com/) (previously [DAMO Academy](https://damo.alibaba.com/)), Alibaba Group.
