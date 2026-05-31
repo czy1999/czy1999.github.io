@@ -28,6 +28,7 @@ The long-term goal of my research is to develop **self-evolving** artificial int
 
 ## 🔥 News
 - 2026.04: ✨One long paper about Group-level User Simulation is accepted by [SIGIR 2026 Industry Track](https://sigir2026.org/en-AU/pages/submissions/industry-track)!
+- 2026.02: 💼 Joining [Tencent Hunyuan Team](https://hy.tencent.com/) as a Qingyun Program (青云计划) research intern, focusing on AI Memory for digital human.
 - 2025.11: ✨Our [WOWService technical report](https://arxiv.org/pdf/2510.13291) is released!
 - 2025.10: ✨One long paper about Temporal RAG Benchmark is accepted by [Nature Scientific Data](https://www.nature.com/articles/s41597-025-06098-y)!
 - 2025.08: ✨One long paper about Temporal RAG is accepted by [CIKM 2025](https://cikm2025.org/)!
@@ -47,11 +48,12 @@ The long-term goal of my research is to develop **self-evolving** artificial int
 ## 📕 Selected Publications 
 - **[SIGIR 2026]** Meituan Merchant Business Diagnosis via Policy-Guided Dual-Process User Simulation<br>
   <u><strong>Ziyang Chen</strong></u>, Renbing Chen, Daowei Li, Jinzhi Liao, Jiashen Sun, Ke Zeng, Xiang Zhao
- <br>**[[pdf](https://arxiv.org/pdf/2604.15190)]**
+  <br>**[[pdf](https://arxiv.org/pdf/2604.15190)]**
+
 
 - **[Technical Report 2026]** Higher Satisfaction, Lower Cost: A Technical Report on How LLMs Revolutionize Meituan's Intelligent Interaction Systems<br>
-<u><strong>Ziyang Chen</strong></u> as one of the contributors
- <br>**[[pdf](https://arxiv.org/pdf/2510.13291)] [[news](https://mp.weixin.qq.com/s/_WhBBUICK8mLydGO16Ofxg)]**
+  <u><strong>Ziyang Chen</strong></u> as one of the contributors
+  <br>**[[pdf](https://arxiv.org/pdf/2510.13291)] [[news](https://mp.weixin.qq.com/s/_WhBBUICK8mLydGO16Ofxg)]**
 
 - **[Nature Scientific Data 2025]** A Question Answering Dataset for Temporal-Sensitive Retrieval-Augmented Generation<br>
   <u><strong>Ziyang Chen</strong></u>, Erxue Min, Xiang Zhao, Yunxin Li, Xin Jia, Jinzhi Liao, Jichao Li, Shuaiqiang Wang, Baotian Hu, Dawei Yin
@@ -91,9 +93,9 @@ The long-term goal of my research is to develop **self-evolving** artificial int
 
 
 ## 💼 Research Internship
+- 2025.02-2025.5: Research Intern at [Tencent Hunyuan Team](https://hy.tencent.com/), Tencent Inc.
 - 2025.05-2025.11: Research Intern at [Meituan Fundamental R&D Platform, LongCat Interaction Team](https://tech.meituan.com/), Meituan Inc.
-- 2024.08-2025.02: Research Intern at 
-[Baidu’s Search Science Team](http://searchscience.baidu.com/), Baidu Inc.
+- 2024.08-2025.02: Research Intern at [Baidu’s Search Science Team](http://searchscience.baidu.com/), Baidu Inc.
 - 2024.02-2024.08: Research Intern at [Tongyi Lab](https://tongyi.aliyun.com/) (previously [DAMO Academy](https://damo.alibaba.com/)), Alibaba Group.
 - 2023.07-2024.02: Visiting Student at Harbin Institute of Technology Shenzhen (HIT-SZ), advised by Prof. [Baotian Hu (户保田)](https://faculty.hitsz.edu.cn/hubaotian).
 
