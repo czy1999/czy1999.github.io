@@ -28,7 +28,7 @@ The long-term goal of my research is to develop **self-evolving** artificial int
 
 
 ## 🔥 News
-- 2026.07: 🎉 Joining [ByteDance](https://www.bytedance.com/en/) as an LLM Researcher.
+- 2026.07: 🎉 Joining [ByteDance](https://www.bytedance.com/en/) as an LLM Researcher, focusing on LLM agents.
 - 2026.04: ✨One long paper about Group-level User Simulation is accepted by [SIGIR 2026 Industry Track](https://sigir2026.org/en-AU/pages/submissions/industry-track)!
 - 2026.02: 💼 Joining [Tencent Hunyuan Team](https://hy.tencent.com/) as a Qingyun Program (青云计划) research intern, focusing on AI Memory for digital human.
 - 2025.11: ✨Our [WOWService technical report](https://arxiv.org/pdf/2510.13291) is released!
