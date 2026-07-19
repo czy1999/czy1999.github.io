@@ -24,9 +24,9 @@ author:
   avatar           : "academic.png"
   name             : "Ziyang Chen"
   pronouns         : # example: "she/her"  
-  bio              : "3rd-Year Ph.D. Student@NUDT" #"Phd student at National University of Defense Technology, interested in temporal reasoning, knowledge graph, and natural language processing."
+  bio              : "LLM Researcher at ByteDance" #"Phd student at National University of Defense Technology, interested in temporal reasoning, knowledge graph, and natural language processing."
   location         : #"China"
-  employer         : # "National University of Defense Technology"
+  employer         : "ByteDance"
   uri              : # URL
   email            : "chenziyangnudt@nudt.edu.cn" 
 

@@ -12,7 +12,7 @@ redirect_from:
 
 ## 😎 About Me (陈子阳)
 
-I'm a Ph.D. candidate at [National University of Defense Technology (国防科技大学)](https://english.nudt.edu.cn/), proudly advised by Prof. [Xiang Zhao (赵翔)](https://xiangz-nudt.github.io/). My research interests focus on temporal reasoning, knowledge graph, and large language models. 
+I'm an LLM Researcher at [ByteDance](https://www.bytedance.com/en/). I received my Ph.D. from [National University of Defense Technology (国防科技大学)](https://english.nudt.edu.cn/), where I was advised by Prof. [Xiang Zhao (赵翔)](https://xiangz-nudt.github.io/). My research interests focus on temporal reasoning, knowledge graphs, large language models, and AI agents.
 
 The long-term goal of my research is to develop **self-evolving** artificial intelligence that can liberate humanity from mundane tasks.<!--and contribute to the realization of communism.--> Areas of interest in research include:
 
@@ -28,6 +28,7 @@ The long-term goal of my research is to develop **self-evolving** artificial int
 
 
 ## 🔥 News
+- 2026.07: 🎉 I joined [ByteDance](https://www.bytedance.com/en/) as an LLM Researcher.
 - 2026.04: ✨One long paper about Group-level User Simulation is accepted by [SIGIR 2026 Industry Track](https://sigir2026.org/en-AU/pages/submissions/industry-track)!
 - 2026.02: 💼 Joining [Tencent Hunyuan Team](https://hy.tencent.com/) as a Qingyun Program (青云计划) research intern, focusing on AI Memory for digital human.
 - 2025.11: ✨Our [WOWService technical report](https://arxiv.org/pdf/2510.13291) is released!
@@ -117,6 +118,10 @@ I serve as the PC member/reviewer for
 * CCKS (2022-)
 
 ## 🏅 Award
+* Tencent Qingyun Plan (青云计划), 2026
+* Meituan Beidou Program (北斗计划), 2026
+* Ant Group Ant Star Program — Plan A (蚂蚁星 Plan A 计划), 2026
+* Huawei Top Minds Program (天才少年计划), 2026
 * Undergraduate National Scholarship
 * Freshman First-Class Scholarship of NUDT
 
