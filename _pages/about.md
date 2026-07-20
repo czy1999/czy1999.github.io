@@ -24,7 +24,7 @@ The long-term goal of my research is to develop **self-evolving** artificial int
 
 
 <ul style="color: blue;">I am actively looking for academic collaboration.</ul>
-<ul style="color: blue;">📧 chenziyangnudt@nudt.edu.cn /  chenziyang319@163.com</ul>
+<ul style="color: blue;">📧 chenziyang233@gmail.com /  chenziyang319@163.com</ul>
 
 
 ## 🔥 News
