@@ -66,7 +66,7 @@ The long-term goal of my research is to develop **self-evolving** artificial int
   <u><strong>Ziyang Chen</strong></u>, Erxue Min, Xiang Zhao, Yunxin Li, Xin Jia, Jinzhi Liao, Dawei Yin
   <br>**[[pdf](https://dl.acm.org/doi/epdf/10.1145/3746252.3761292)]** **[[code](https://github.com/czy1999/ChronoReflect)]**  
 
-- **[arXiv 2024]** An Adaptive Framework for Generating Systematic Explanatory Answer in Online Q&A Platforms<br>
+- **[WISE 2026]** An Adaptive Framework for Generating Systematic Explanatory Answer in Online Q&A Platforms<br>
   <u><strong>Ziyang Chen</strong></u>, Xiaobin Wang, Yong Jiang, Jinzhi Liao, Pengjun Xie, Fei Huang, Xiang Zhao
   <br>**[[pdf](https://arxiv.org/abs/2410.17694)]**  **[[code](https://github.com/czy1999/SynthRAG)]**  
 
